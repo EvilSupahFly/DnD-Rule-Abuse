@@ -2,7 +2,7 @@
 
 ---
 
-I'm collecting these exploits in this (Codex)[https://github.com/EvilSupahFly/DnD-Rule-Abuse/blob/main/CODEX.md], though it's still a rough draft, with some duplicated sections and things out of order, but here's a glimpse. I think you'll like the rest.
+I'm collecting these exploits in this [Codex](https://github.com/EvilSupahFly/DnD-Rule-Abuse/blob/main/CODEX.md), though it's still a rough draft, with some duplicated sections and things out of order, but here's a glimpse. I think you'll like the rest.
 
 ---
 
